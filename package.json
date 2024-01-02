@@ -1,5 +1,6 @@
 {
   "name": "repos",
+  "homepage": "https://rom4uk.github.io/repos/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
