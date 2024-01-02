@@ -1,2 +1,2 @@
-export const ROOT_PATH = '/';
-export const FAVOURITES_PATH = '/favourites';
+export const ROOT_PATH = '/repos';
+export const FAVOURITES_PATH = '/repos/favourites';

@@ -18,10 +18,10 @@ export default function RoutePages(): JSX.Element {
 
     return (
         <Switch>
-            <Route exact path='/'>
+            <Route exact path='/repos'>
                 <Home />
             </Route>
-            <Route exact path='/favourites'>
+            <Route exact path='/repos/favourites'>
                 <FavouritesWrapper />
             </Route>
             <Route path="*">
